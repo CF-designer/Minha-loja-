@@ -24,8 +24,8 @@ header {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 .produto img {
-    max-width: 30%;
-    border-radius: 8px;
+   width: 400;
+   height: 300px;
 }
 .produto h3 {
     color: #333;
